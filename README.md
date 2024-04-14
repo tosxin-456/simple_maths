@@ -4,3 +4,4 @@ addition,
 subtraction,
 division, 
 multiplication
+modulos can be added. 
